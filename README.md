@@ -30,6 +30,13 @@ Open source projects to work properly:
 
 **Free, Use wisely!**
 
+## Project Inquiries
+**Email : josephshandyharvian@gmail.com**
+**Whatsapp : +6289615141859**
+
+
+**Free, Use wisely!**
+
 [//]: # (These are reference links used in the body of this note and get stripped out when the markdown processor does its job. There is no need to format nicely because it shouldn't be seen.)
 
    [Capacitor]: <https://capacitorjs.com/>
