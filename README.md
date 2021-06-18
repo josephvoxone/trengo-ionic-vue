@@ -31,7 +31,7 @@ Open source projects to work properly:
 **Free, Use wisely!**
 
 ## Project Inquiries
-**Email : josephshandyharvian@gmail.com**
+**Email : josephshandyharvian@gmail.com**  
 **Whatsapp : +6289615141859**
 
 
