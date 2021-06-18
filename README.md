@@ -1,6 +1,8 @@
 # Trengo Vue@ionic5
 This git repo just for my portofolio, this application using ionic 5 with Vue js 3 and integrated with Trengo CRM. 
 
+[![Build Status](https://i.ibb.co/TR0jQDN/Trengo.jpg)]()
+
 ## Features Snippet
 - User can create a new session to see the stock that buyers will order during the conversation with Trengo App
 - User can add item and set quantity of item
