@@ -1,0 +1,27 @@
+.status {
+  background: #ff9800;
+  color: #fff;
+  padding: 5px 15px;
+  font-weight: 800;
+  border-radius: 5px;
+}
+.list-header {
+  position: sticky;
+  top: 0px;
+  z-index: 3;
+}
+.btn-copy {
+  background: #9e9e9e;
+  border-radius: 5px;
+  margin-right: 6px;
+}
+ion-note {
+  font-size: 13px;
+}
+
+.box-img {
+  margin-left: 10vw !important;
+  padding: 30px;
+  padding-bottom: 0;
+  width: 220px;
+}

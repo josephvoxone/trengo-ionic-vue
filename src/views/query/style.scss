@@ -1,0 +1,80 @@
+.copyquery {
+    background: #9e9e9e;
+    color: #fff;
+    display: flex;
+    padding: 3px 0;
+    text-align: center;
+    font-weight: 500;
+    font-size: 11px;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+}
+
+.card-query{
+    margin: 12px;
+}
+
+.datalistquery:focus {
+    outline: none;
+}
+.datalistquery {
+    border: none;
+    background: #ededed;
+    width: 100%;
+    padding: 7px;
+    border-radius: 8px;
+    text-align: center;
+    margin-left: 13px;
+    margin-right: 2px;
+}
+.querybadge {
+    padding: 7px;
+    font-size: 9px;
+}
+.unit {
+    background: #ff9800;
+    font-size: 12px;
+    padding: 3px 20px;
+    border-radius: 0 0 11px 0;
+    color: #fff;
+    letter-spacing: 2px;
+    margin-bottom: 8px;
+    display: inline-block;
+}
+
+.box-img {
+    margin-left: 10vw !important;
+    padding: 30px;
+    padding-bottom: 0;
+    width: 350px;
+}
+
+.sesi-query {
+    background: linear-gradient(353deg, #ff9800, #ffc36b);
+    text-align: center;
+    font-size: 12px;
+    padding: 8px;
+}
+
+/*
+ * This adds a scroll bar to ionic alerts
+ */
+ .alert-radio-group::-webkit-scrollbar,
+ .alert-checkbox-group::-webkit-scrollbar {
+   width: 0.7em;
+   display: block !important;
+ }
+ 
+ .alert-radio-group::-webkit-scrollbar-track,
+ .alert-checkbox-group::-webkit-scrollbar-track {
+   -webkit-box-shadow: inset 0 0 6px rgba(0, 0, 0, 0.3);
+   box-shadow: inset 0 0 6px rgba(0, 0, 0, 0.3);
+ }
+ 
+ .alert-radio-group::-webkit-scrollbar-thumb,
+ .alert-checkbox-group::-webkit-scrollbar-thumb {
+   background-color: darkgrey;
+   outline: 1px solid slategrey;
+ }
+ 

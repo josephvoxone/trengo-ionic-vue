@@ -1,0 +1,45 @@
+.noreff-card {
+    margin: auto;
+    background: linear-gradient(353deg, #ff9800, #ffc36b);
+    font-size: 14px;
+    text-align: center;
+    padding: 6px 0;
+    color: #fff;
+}
+
+.listsession-session {
+    margin: 12px;
+}
+.listsession-session .status {
+    background-color: #8bc34a;
+    padding: 5px 10px;
+    border-radius: 5px;
+    font-weight: 800;
+    color: #fff;
+    letter-spacing: 0.7px;
+    font-size: 9px;
+    display: inline-flex;
+}
+.note-session {
+    display: grid;
+}
+.makeitcent {
+    display: inline-flex;
+    width: 100%;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.makeitcent p {
+    margin: 0;
+}
+.filtersession {
+    font-size: 11px;
+    justify-content: center;
+    display: block;
+    background: #9e9e9e;
+    padding: 10px;
+    text-align: center;
+    color: #fff;
+    text-transform: lowercase;
+}
